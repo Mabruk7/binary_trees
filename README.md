@@ -288,7 +288,7 @@ Function Prototypes
     - Extracting the root node.
     - Searching for a node in a binary heap of size `n`.
 
-## Authors
+## Author(s)
 
 <details>
     <summary>Osman Mab-ruk Bawa</summary>
